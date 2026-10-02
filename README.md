@@ -1,6 +1,6 @@
 # About Me 👋
 
-**Estudante de Engenharia de Computação (IFSP) | Backend com Java | Dados e IA**
+**Computer Engineering student at IFSP | Backend com Java | Dados e IA**
 
 I'm a **Computer Engineering** student at IFSP – Guarulhos and a **Software Engineering Intern**, currently building my career in software development.
 
@@ -20,7 +20,7 @@ Backend Development • Data Analysis • Artificial Intelligence • Software E
 - **análise de dados** com Python
 - **inteligência artificial**
 
-## 🛠️ Tecnologias
+## 🛠️ Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -36,9 +36,9 @@ Backend Development • Data Analysis • Artificial Intelligence • Software E
 
 **Também trabalho com:** SQL, VBA, Maven, JDBC, Pandas, NumPy, Matplotlib, HTML, CSS, Bootstrap, jQuery, UML e arquitetura MVC.
 
-## 🚀 Projetos em destaque
+## 🚀 Featured projects
 
-| Projeto | Descrição | Tecnologias |
+| Project | Description | 	Tech |
 |---|---|---|
 | [**taskSchedule-api**](https://github.com/SEU-USUARIO/taskSchedule-api) | Task management REST API (TASKMASTER) with CRUD, paginated and sorted listing, and category filtering | Java, Spring Boot, REST API, Bean Validation, DTOs |
 | [**codeWallet**](https://github.com/SEU-USUARIO/codeWallet) | DESCRIBE IN ONE SENTENCE WHAT THE PROJECT DOES | TECH |
@@ -46,7 +46,7 @@ Backend Development • Data Analysis • Artificial Intelligence • Software E
 | [**Sorting Algorithms**](https://github.com/SEU-USUARIO/NOME-DO-REPO) | 10 sorting algorithms implemented in C, with performance and Big-O analysis | C, Data Structures, Excel |
 | [**Shipping Control Spreadsheet**](https://github.com/SEU-USUARIO/NOME-DO-REPO) | Automation of shipment tracking, replacing a manual process with a spreadsheet using automated queries | Excel, Power Query |
 
-## 📚 Formação e cursos
+## 📚 Education & courses
 
 - **B.Sc. in Computer Engineering** — Federal Institute of São Paulo (IFSP), 2024 – 2028
 - **Backend Development with Java** — Alura
