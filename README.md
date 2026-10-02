@@ -14,7 +14,7 @@ I'm continuously improving my technical skills, learning software engineering be
 
 Backend Development • Data Analysis • Artificial Intelligence • Software Engineering
 
-## 🎯 Foco atual
+## 🎯 Current focus
 
 - Aprofundar **Java e Spring Boot** na construção de APIs REST
 - **análise de dados** com Python
